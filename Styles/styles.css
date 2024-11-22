@@ -1,0 +1,52 @@
+/* General Reset */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Main Content Styling */
+main {
+  max-width: 840px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Profile Image in Main Section */
+main img {
+  width: 150px;
+  height: auto;
+  border-radius: 50%; /* Optional styling */
+}
+
+/* Aside Section Styling */
+aside {
+  width: 20rem;
+  margin: 1rem auto;
+  border: 1px solid rgba(0, 0, 0, 0.2); /* Subtle transparent border */
+  padding: 1rem;
+  background-color: #eee;
+  color: #333;
+  text-align: center;
+}
+
+/* Image Inside Aside */
+aside img {
+  width: 200px;
+  height: auto;
+  border-radius: 5px; /* Optional: Slightly rounded corners */
+}
+
+/* Paragraph Styling */
+p {
+  padding: 0;
+}
+
+/* Footer Styling */
+footer {
+  margin-top: 15px;
+  border-top: 1px solid #000;
+  text-align: center;
+  padding: 10px;
+  background-color: #f9f9f9; /* Optional: Footer background */
+}
